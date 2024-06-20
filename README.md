@@ -40,5 +40,5 @@ I am Shuhai Yu, people call me Felix, a recent computer science graduate from [M
 
 ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuhaiYu&show_icons=true)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShuhaiYu.ShuhaiYu)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShuhaiYu.ShuhaiYu)
 
