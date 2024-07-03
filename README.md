@@ -2,6 +2,9 @@
 
 I am Shuhai Yu, people call me Felix, a recent Master of IT graduate from [Monash University](https://www.monash.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
+My Portfolio [Here](https://felixyu.net)
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-shuhaiyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuhaiyu/)](https://www.linkedin.com/in/shuhaiyu/)
 [![Gmail Badge](https://img.shields.io/badge/-felixyudev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:felixyudev@gmail.com)
 
